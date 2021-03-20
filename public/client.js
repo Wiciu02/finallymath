@@ -3,7 +3,7 @@ const socket = io();
 let mousePressed = false;
 let lastPos = null;
 let drawColor = "black";
-let lineWidth = 15;
+let lineWidth = 5;
 
 const canvas = document.getElementById("canvas");
 const ctx = canvas.getContext("2d");
