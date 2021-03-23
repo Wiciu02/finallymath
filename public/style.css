@@ -11,6 +11,8 @@ body {
 header{
 
     width: 100%;
+    heiht: 156px;
+    background-color: #9E7394 !important;
 }
 
 
@@ -118,7 +120,7 @@ h1 {
 #clearBtn {
     margin-top: 10px;
     font-size: 25px;
-    color: gray;
+    color: #ffffff;
     transition: all 400ms;
     margin-left:auto;
     margin-right:auto;
@@ -147,6 +149,7 @@ h1 {
     z-index: 100;
     margin-left: auto !important;
     margin-right: auto !important;
+    background-color: #9E7394;
 }
 
 .content{
